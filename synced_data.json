@@ -15,6 +15,10 @@
     "100574339": {
       "tag_name": "23.4.3",
       "fully_synced_at": "2025-07-31 08:30:26.237125"
+    },
+    "100854070": {
+      "tag_name": "23.4.4",
+      "fully_synced_at": "2025-07-31 08:31:35.325237"
     }
   },
   "assets": {
@@ -121,6 +125,38 @@
         "updated_at": "2025-07-31T08:30:26+00:00",
         "synced_at": "2025-07-31 08:30:26.221886"
       }
+    },
+    "100854070": {
+      "arpl-i18n-23.4.4.img.zip_288944874": {
+        "name": "arpl-i18n-23.4.4.img.zip",
+        "size": 288944874,
+        "updated_at": "2025-07-31T08:30:51+00:00",
+        "synced_at": "2025-07-31 08:30:52.060482"
+      },
+      "arpl-i18n-23.4.4.vmdk-dyn.zip_288192944": {
+        "name": "arpl-i18n-23.4.4.vmdk-dyn.zip",
+        "size": 288192944,
+        "updated_at": "2025-07-31T08:31:05+00:00",
+        "synced_at": "2025-07-31 08:31:05.259712"
+      },
+      "arpl-i18n-23.4.4.vmdk-flat.zip_288945299": {
+        "name": "arpl-i18n-23.4.4.vmdk-flat.zip",
+        "size": 288945299,
+        "updated_at": "2025-07-31T08:31:18+00:00",
+        "synced_at": "2025-07-31 08:31:18.550161"
+      },
+      "arpl-i18n-bios-notimeout-test.zip_293174782": {
+        "name": "arpl-i18n-bios-notimeout-test.zip",
+        "size": 293174782,
+        "updated_at": "2025-07-31T08:31:31+00:00",
+        "synced_at": "2025-07-31 08:31:31.374834"
+      },
+      "update.zip_76211488": {
+        "name": "update.zip",
+        "size": 76211488,
+        "updated_at": "2025-07-31T08:31:35+00:00",
+        "synced_at": "2025-07-31 08:31:35.309483"
+      }
     }
   },
   "source_codes": {
@@ -162,6 +198,16 @@
       "SourceCode_23.4.3.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-31 08:29:42.110722"
+      }
+    },
+    "23.4.4": {
+      "SourceCode_23.4.4.zip": {
+        "exists": true,
+        "synced_at": "2025-07-31 08:30:34.002303"
+      },
+      "SourceCode_23.4.4.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-31 08:30:37.182753"
       }
     }
   }
