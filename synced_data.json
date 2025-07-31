@@ -1,0 +1,48 @@
+{
+  "releases": {
+    "99096109": {
+      "tag_name": "23.4.0",
+      "fully_synced_at": "2025-07-31 08:27:44.560391"
+    }
+  },
+  "assets": {
+    "99096109": {
+      "arpl-i18n-23.4.0.img.zip_157226200": {
+        "name": "arpl-i18n-23.4.0.img.zip",
+        "size": 157226200,
+        "updated_at": "2025-07-31T08:27:27+00:00",
+        "synced_at": "2025-07-31 08:27:27.957878"
+      },
+      "arpl-i18n-23.4.0.vmdk-dyn.zip_156350766": {
+        "name": "arpl-i18n-23.4.0.vmdk-dyn.zip",
+        "size": 156350766,
+        "updated_at": "2025-07-31T08:27:33+00:00",
+        "synced_at": "2025-07-31 08:27:34.008923"
+      },
+      "arpl-i18n-23.4.0.vmdk-flat.zip_157226626": {
+        "name": "arpl-i18n-23.4.0.vmdk-flat.zip",
+        "size": 157226626,
+        "updated_at": "2025-07-31T08:27:40+00:00",
+        "synced_at": "2025-07-31 08:27:41.042523"
+      },
+      "update.zip_76180138": {
+        "name": "update.zip",
+        "size": 76180138,
+        "updated_at": "2025-07-31T08:27:44+00:00",
+        "synced_at": "2025-07-31 08:27:44.544810"
+      }
+    }
+  },
+  "source_codes": {
+    "23.4.0": {
+      "SourceCode_23.4.0.zip": {
+        "exists": true,
+        "synced_at": "2025-07-31 08:27:17.844216"
+      },
+      "SourceCode_23.4.0.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-31 08:27:20.943861"
+      }
+    }
+  }
+}
