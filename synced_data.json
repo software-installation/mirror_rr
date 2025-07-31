@@ -83,6 +83,10 @@
     "108127942": {
       "tag_name": "23.6.3",
       "fully_synced_at": "2025-07-31 08:43:06.053043"
+    },
+    "108136347": {
+      "tag_name": "23.6.4",
+      "fully_synced_at": "2025-07-31 08:44:03.474885"
     }
   },
   "assets": {
@@ -606,6 +610,38 @@
         "updated_at": "2025-07-31T08:43:05+00:00",
         "synced_at": "2025-07-31 08:43:06.035468"
       }
+    },
+    "108136347": {
+      "arpl-i18n-23.6.4-Realtek-test.img.zip_235433560": {
+        "name": "arpl-i18n-23.6.4-Realtek-test.img.zip",
+        "size": 235433560,
+        "updated_at": "2025-07-31T08:43:28+00:00",
+        "synced_at": "2025-07-31 08:43:28.814522"
+      },
+      "arpl-i18n-23.6.4.img.zip_238292453": {
+        "name": "arpl-i18n-23.6.4.img.zip",
+        "size": 238292453,
+        "updated_at": "2025-07-31T08:43:36+00:00",
+        "synced_at": "2025-07-31 08:43:37.030413"
+      },
+      "arpl-i18n-23.6.4.vmdk-dyn.zip_237498051": {
+        "name": "arpl-i18n-23.6.4.vmdk-dyn.zip",
+        "size": 237498051,
+        "updated_at": "2025-07-31T08:43:46+00:00",
+        "synced_at": "2025-07-31 08:43:46.925504"
+      },
+      "arpl-i18n-23.6.4.vmdk-flat.zip_238292879": {
+        "name": "arpl-i18n-23.6.4.vmdk-flat.zip",
+        "size": 238292879,
+        "updated_at": "2025-07-31T08:43:58+00:00",
+        "synced_at": "2025-07-31 08:43:58.381846"
+      },
+      "update.zip_81257149": {
+        "name": "update.zip",
+        "size": 81257149,
+        "updated_at": "2025-07-31T08:44:03+00:00",
+        "synced_at": "2025-07-31 08:44:03.457097"
+      }
     }
   },
   "source_codes": {
@@ -817,6 +853,16 @@
       "SourceCode_23.6.3.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-31 08:42:32.892416"
+      }
+    },
+    "23.6.4": {
+      "SourceCode_23.6.4.zip": {
+        "exists": true,
+        "synced_at": "2025-07-31 08:43:14.328754"
+      },
+      "SourceCode_23.6.4.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-31 08:43:17.719329"
       }
     }
   }
